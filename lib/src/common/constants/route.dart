@@ -1,5 +1,5 @@
-class NamedRoutes {
-  NamedRoutes._();
+class NamedRoute {
+  NamedRoute._();
 
   static const String home = '/';
   static const String projects = '/projects';
